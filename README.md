@@ -19,3 +19,11 @@ Esc: Hide The Query And Manager Window.
 ![3](https://user-images.githubusercontent.com/44434483/162985890-e7f7cfe4-9e34-47d0-8fdd-31d454e789ac.png)
 
 
+![quicktags11](https://user-images.githubusercontent.com/44434483/163002739-ca2d4b18-d015-4d6a-a70d-09781cf52fd6.gif)
+
+
+![quicktags12](https://user-images.githubusercontent.com/44434483/163002828-8db474d7-1612-419e-afc1-e1da13c7af7c.gif)
+
+
+
+![quicktags13](https://user-images.githubusercontent.com/44434483/163002853-a40cfafb-22ec-47df-b0d7-a1a491a0ea22.gif)
