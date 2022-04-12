@@ -12,4 +12,4 @@ How to use it?
 F2: Show The Query And Manager Window.
 Esc: Hide The Query And Manager Window.
 
-![image](https://github.com/yjhi/QuickTags/blob/main/bmp/1.bmp)
+![image](https://github.com/yjhi/QuickTags/blob/main/img/1.img)
